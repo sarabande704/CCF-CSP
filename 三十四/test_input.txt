@@ -1,0 +1,5 @@
+4 8
+cut 15
+cute 10
+but 6
+execute 3

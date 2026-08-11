@@ -1,0 +1,13 @@
+# Compiled executables
+*.exe
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
